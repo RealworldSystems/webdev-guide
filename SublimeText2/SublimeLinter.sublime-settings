@@ -1,3 +1,19 @@
 {
-    "sublimelinter_popup_errors_on_save": false
+  "javascript_linter": "jshint",
+  "jshint_options": {
+    "curly": true,
+    "dojo": true,
+    "eqeqeq": true,
+    "eqnull": true,
+    "immed": true,
+    "latedef": true,
+    "newcap": true,
+    "noarg": true,
+    "strict": false,
+    "sub": true,
+    "undef": true
+  },
+  "sublimelinter": true,
+  "sublimelinter_delay": 2,
+  "sublimelinter_popup_errors_on_save": true
 }

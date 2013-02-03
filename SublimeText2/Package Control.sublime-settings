@@ -3,6 +3,8 @@
 	[
 		"Git",
 		"Package Control",
-		"SublimeLinter"
+		"Pretty JSON",
+		"SublimeLinter",
+		"XAML"
 	]
 }
