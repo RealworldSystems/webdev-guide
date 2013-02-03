@@ -1,6 +1,5 @@
 {
     "installed_packages": [
-        "CommandOnSave",
         "Git",
         "Package Control",
         "Pretty JSON",
