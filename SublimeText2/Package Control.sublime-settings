@@ -1,10 +1,10 @@
 {
-	"installed_packages":
-	[
-		"Git",
-		"Package Control",
-		"Pretty JSON",
-		"SublimeLinter",
-		"XAML"
-	]
+    "installed_packages": [
+        "CommandOnSave",
+        "Git",
+        "Package Control",
+        "Pretty JSON",
+        "SublimeLinter",
+        "XAML"
+    ]
 }
