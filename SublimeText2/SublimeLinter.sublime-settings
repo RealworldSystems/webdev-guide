@@ -15,7 +15,7 @@
     },
     "sublimelinter": true,
     "sublimelinter_delay": 2,
-    // Uncheck the comment below under Windows
+    // Uncomment the code below under Windows
     /*
     "sublimelinter_executable_map": {
         "css": "c:/Chocolatey/lib/nodejs.commandline.0.8.18/tools/node.exe",
