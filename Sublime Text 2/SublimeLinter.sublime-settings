@@ -15,12 +15,9 @@
     },
     "sublimelinter": true,
     "sublimelinter_delay": 2,
-    // Uncomment the code below under Windows
-    /*
     "sublimelinter_executable_map": {
         "css": "c:/Chocolatey/lib/nodejs.commandline.0.8.18/tools/node.exe",
         "javascript": "c:/Chocolatey/lib/nodejs.commandline.0.8.18/tools/node.exe"
     },
-    */
     "sublimelinter_popup_errors_on_save": true
 }
