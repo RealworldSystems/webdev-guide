@@ -9,6 +9,9 @@
         "latedef": true,
         "newcap": true,
         "noarg": true,
+        "predef": [
+            "esri"
+        ],
         "strict": false,
         "sub": true,
         "undef": true
