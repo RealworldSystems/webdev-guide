@@ -3,7 +3,7 @@ Personal
 
 ## Chocolatey
 
-My packages file is under the `Chocolatey` directory.
+Our packages file is under the `Chocolatey` directory.
 
 Install Chocolatey using the instructions on [chocolatey.org](http://chocolatey.org)
 
