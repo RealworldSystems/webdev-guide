@@ -14,7 +14,9 @@
         ],
         "strict": false,
         "sub": true,
-        "undef": true
+        "undef": true,
+	"indent": 4,
+	"white": true
     },
     "sublimelinter": true,
     "sublimelinter_delay": 2,
